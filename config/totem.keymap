@@ -68,7 +68,7 @@
         &kp EXCL  &kp AT  &kp HASH  &kp DOLLAR  &kp PERCENT    &kp CARET  &kp AMPERSAND  &kp KP_ASTERISK  &kp LEFT_PARENTHESIS  &kp RPAR
         &kp F1    &kp F2  &kp F3    &kp F4      &kp F5         &kp F6     &kp UNDER      &kp PLUS         &kp LEFT_BRACE        &kp RIGHT_BRACE
 &trans  &kp F7    &kp F8  &kp F9    &kp F10     &kp F11        &kp F12    &kp MINUS      &kp EQUAL        &kp LBKT              &kp RBKT         &kp BSLH
-                          &trans    &trans      &trans         &trans     &trans         &trans
+                          &trans    &trans      &trans         &trans     &kp DELETE     &trans
             >;
         };
 
