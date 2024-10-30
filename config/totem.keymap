@@ -68,7 +68,7 @@
          &kp Q       &kp W       &kp F        &kp P         &kp B          &kp J        &kp L        &kp U        &kp Y       &kp SEMI
          &hm LGUI A  &hm LALT R  &hm LCTRL S  &hm LSHIFT T  &kp G          &kp M        &hm RSHFT N  &hm RCTRL E  &hm RALT I  &hm RGUI O
 &kp ESC  &kp Z       &kp X       &kp C        &kp D         &kp V          &kp K        &kp H        &kp COMMA    &kp DOT     &kp SLASH   &kp APOSTROPHE
-                                 &kp GRAVE    &kp TAB       &lt 1 SPACE    &lt 0 ENTER  &bspc_del    &kp K_MENU
+                                 &mt LCTRL GRAVE    &lt 1 SPACE   &mt LSHIFT TAB        &bspc_del    &lt 0 ENTER  &mt LALT K_MENU
             >;
         };
 
